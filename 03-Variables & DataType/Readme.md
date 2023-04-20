@@ -67,3 +67,7 @@ Output:
 ```
 {'name': 'Sakshi', 'age': 20, 'canVote': True}
 ```
+
+
+
+
